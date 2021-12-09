@@ -1,4 +1,4 @@
-# Question 1: Simulated Annealing to find the global minimum on Easom function
+ECE 457A: Simulated Annealing to find the global minimum on Easom function
 
 To run this program, run:
 
