@@ -1,6 +1,6 @@
-ECE 457A: Simulated Annealing to find the global minimum on Easom function
+# ECE 457A: Simulated Annealing to find the global minimum on Easom function
 
-To run this program, run:
+To run this program:
 
 ```bash
 python3 457A_A2_Q1.py
